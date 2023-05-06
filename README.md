@@ -26,4 +26,4 @@ To run this program, do the following:
 1. Download DrRacket 
 2. Download the **word_processor.rkt** file
 3. Open the file in DrRacket and make sure the language is Intermediate Student with lambda
-4. Type   (editor "") or  (editor "text you want to start with in quotes") in the the terminal then click enter 
+4. Type   <tt>(editor "")</tt> or  (editor "text you want to start with in quotes") in the the terminal then click enter 
