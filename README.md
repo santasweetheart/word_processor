@@ -1,12 +1,12 @@
 # Word Processor
 
-Project: A word processor with GUI created in Racket  
+**Project**: A word processor with GUI created in Racket  
 
-Timeframe: Spring 2021  
+**Timeframe**: Spring 2021  
 
-Class: Fundies 1  
+**Class**: Fundies 1  
 
-Group: Santa Jolicoeur & Kush R.  
+**Group**: Santa Jolicoeur & Kush R.  
 
 
 ### Description: 
@@ -18,3 +18,12 @@ Our word processor was created in Spring 2021 as a collaborative project for Fun
 - Coding in a functional language
 - Efficient use if function and list Abstractions
 - Implementing GUI using Racket
+
+
+# Running the Code
+
+To run this program, do the following:  
+1. Download DrRacket 
+2. Download the **word_processor.rkt** file
+3. Open the file in DrRacket and make sure the language is Intermediate Student with lambda
+4. Type   (editor "") or  (editor "text you want to start with in quotes") in the the terminal then click enter 
